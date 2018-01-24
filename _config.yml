@@ -1,0 +1,19 @@
+title:             Clean Blog
+email:             raj4tkr@gmail.com
+description:       A Blog Theme by Start Bootstrap
+author:            Rajat Kumar
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "http://iraj4t.github.io"
+
+# Social Profiles
+twitter_username:  iraj4t
+github_username:   iraj4t
+facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
