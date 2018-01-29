@@ -1,14 +1,14 @@
-title:             Clean Blog
+title:             Rajat Kumar
 email:             raj4tkr@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Rajat Kumar
 # baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://iraj4t.github.io"
+url:               "http://rajat.github.io"
 
 # Social Profiles
 twitter_username:  iraj4t
-github_username:   iraj4t
-facebook_username: StartBootstrap
+github_username:   rajat
+facebook_username: rajat
 
 # Build settings
 markdown:          kramdown
