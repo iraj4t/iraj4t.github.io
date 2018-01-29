@@ -1,6 +1,6 @@
 title:             Rajat Kumar
 email:             raj4tkr@gmail.com
-description:       A Blog Theme by Start Bootstrap
+description:       This blog is about my experience with Technology, Computer Science, Open Source & Social Issues.
 author:            Rajat Kumar
 # baseurl:           "/startbootstrap-clean-blog-jekyll"
 url:               "http://rajat.github.io"
@@ -8,7 +8,7 @@ url:               "http://rajat.github.io"
 # Social Profiles
 twitter_username:  iraj4t
 github_username:   rajat
-facebook_username: rajat
+facebook_username: raj4t
 
 # Build settings
 markdown:          kramdown
